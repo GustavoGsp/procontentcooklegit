@@ -19,7 +19,6 @@ body {
   margin: 0 auto;
 }
 
-/* Título principal */
 .legal-page h1 {
   font-size: 2.5rem;
   font-weight: 700;
@@ -27,7 +26,7 @@ body {
   letter-spacing: -0.02em;
 }
 
-/* Subtítulos */
+
 .legal-page h2 {
   font-size: 1.25rem;
   font-weight: 600;
@@ -35,7 +34,7 @@ body {
   margin-bottom: 0.5rem;
 }
 
-/* Texto */
+
 .legal-page p {
   font-size: 1rem;
   line-height: 1.75;
@@ -43,13 +42,13 @@ body {
   margin-top: 0.5rem;
 }
 
-/* Destaque para email */
+
 .legal-page strong {
   color: #000;
   font-weight: 600;
 }
 
-/* Botão voltar */
+
 .legal-back {
   display: inline-flex;
   align-items: center;
@@ -74,7 +73,6 @@ body {
   transform: translateY(-1px);
 }
 
-/* Mobile ajuste */
 @media (max-width: 768px) {
   .legal-page {
     padding: 4rem 1rem;
